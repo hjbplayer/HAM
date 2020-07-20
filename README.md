@@ -1,5 +1,6 @@
 # Arbitrary Shape Scene Text Detection via Regression-Based Instance Segmentation
-The code of ¡¶HAM: Hidden Anchor Mechanism for Scene Text Detection¡·
+The code of ["HAM: Hidden Anchor Mechanism for Scene Text Detection"](https://ieeexplore.ieee.org/document/9143459)
+
 ## Requirements:  
 tensorflow >=1.13  
 python3  
