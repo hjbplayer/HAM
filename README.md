@@ -1,5 +1,5 @@
 # Arbitrary Shape Scene Text Detection via Regression-Based Instance Segmentation
-The code of ¡¶HAM: Hidden Anchor Mechanism for Scene Text Detection¡·
+The code of Â¡Â¶HAM: Hidden Anchor Mechanism for Scene Text DetectionÂ¡Â·
 ## Requirements:  
 tensorflow >=1.13  
 python3  
@@ -12,7 +12,7 @@ scipy
 cython
 
 ## Checkpoints
-Checkpoint for ICDAR 2015 is avaiable at [ICDAR 2015](), the checkpoint is pre-trained on ICDAR MLT 2017, ICDAR 2015, ICDAR 2013, and finetuned on ICDAR 2015. Unzip it and move the three files to the ./checkpoints folder.
+Checkpoint for ICDAR 2015 is avaiable at [ICDAR 2015](https://drive.google.com/file/d/1GqwBMcvQ28QeWeuRnlg_w6F5iACHoAFo/view?usp=sharing), the checkpoint is pre-trained on ICDAR MLT 2017, ICDAR 2015, ICDAR 2013, and finetuned on ICDAR 2015. Unzip it and move the three files to the ./checkpoints folder.
 
 
 ## Make
