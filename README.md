@@ -1,5 +1,7 @@
 # "HAM: Hidden Anchor Mechanism for Scene Text Detection"
-The code of ["HAM: Hidden Anchor Mechanism for Scene Text Detection"](https://ieeexplore.ieee.org/document/9143459)
+The code of ["HAM: Hidden Anchor Mechanism for Scene Text Detection"](https://ieeexplore.ieee.org/document/9143459).
+
+We follow the code of [EAST](https://github.com/argman/EAST).
 
 ## Requirements:  
 tensorflow >=1.13  
